@@ -22,10 +22,11 @@
 
 </footer>
 <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.hoverintent/1.10.2/jquery.hoverIntent.min.js"></script>
 <script>
 	$(document).ready(function() {
 		$('.post').fadeIn(1400);
-		$('.menu li').hover(function() {
+		$('.menu li').hoverIntent(function() {
 			// .stop debounces the dropdown
 			$(this).find('ul').stop().slideToggle(300);
 		});
