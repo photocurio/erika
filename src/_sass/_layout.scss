@@ -39,11 +39,12 @@ body {
 			font-size: 75%;
 			text-transform: uppercase;
 			a {
-				padding: 6px 12px;
+				padding: 8px 14px;
 				display: block;
 				letter-spacing: 1px;
 				&:hover {
 					text-decoration: none;
+					background: #1c1f15;
 				}
 			}
 			ul {
@@ -55,8 +56,11 @@ body {
 				padding-bottom: 6px;
 				font-size: 90%;
 				letter-spacing: 1px;
+				> li {
+					margin-bottom: 4px;
+				}
 				a {
-					padding: 6px 12px;
+					padding: 8px 12px;
 					display: block;
 					color: $brand-color;
 					&:hover {
