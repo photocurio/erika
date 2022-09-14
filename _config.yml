@@ -1,0 +1,9 @@
+# Site settings
+title: Erika Mumford, Poet
+email: sunraydust@gmail.com
+baseurl: ""
+url: "http://erikamumford.net"
+
+# Build settings
+markdown: kramdown
+source: src

@@ -1,0 +1,33 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>all content on this site copyright Erika Mumford, 1988</li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+	      <p>for inquiries about this site, contact <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text">{{ site.description }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script>
+	$(document).ready(function() {
+		$('.post').fadeIn(1400);
+		$('.menu li').hover(function() {
+			// .stop debounces the dropdown
+			$(this).find('ul').stop().slideToggle(300);
+		});
+	});
+</script>
