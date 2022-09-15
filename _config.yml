@@ -2,8 +2,15 @@
 title: Erika Mumford, Poet
 email: sunraydust@gmail.com
 baseurl: ""
-url: "http://erikamumford.net"
+url: "https://erikamumford.net"
 
 # Build settings
 markdown: kramdown
 source: src
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
