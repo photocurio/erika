@@ -10,6 +10,6 @@ local_backend: true
 collections:
   - name: 'doorintheforest'
     label: 'Door in the Forest'
-    folder: 'doorintheforest/'
+    folder: 'src/doorintheforest'
     fields:
       - { name: Title }
