@@ -27,3 +27,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: 'wordsformyself'
+    label: 'Words for Myself'
+    folder: 'src/wordsformyself'
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
