@@ -6,574 +6,574 @@ collections: willowwater
 ---
 
 <ol style="list-style-type:lower-roman">
-<li><p>Some ladies in Boston raised the twenty pounds. 
-How had she fared among the savages
-they asked. She'd sewn a shirt
-for her captor's little son
-from a new pillowslip of Holland lace
-they'd stripped off her own bed before they burned it. 
-For that he gave her six roast ground-nuts
-and a small bloody piece of horse's liver
-which she gulped raw. <strong>Never had I bit
-so savoury&hellip;</strong></p></li>
+<li>Some ladies in Boston raised the twenty pounds. <br>
+How had she fared among the savages<br>
+they asked. She'd sewn a shirt<br>
+for her captor's little son<br>
+from a new pillowslip of Holland lace<br>
+they'd stripped off her own bed before they burned it. <br>
+For that he gave her six roast ground-nuts<br>
+and a small bloody piece of horse's liver<br>
+which she gulped raw. <strong>Never had I bit<br>
+so savoury&hellip;</strong></li>
 
-<li><p>Rehearsed and never quite believed in
-that moment when the curtain dimity, velvet
-(the face of terror) slashed naked
-the cloak now avails
-before the scouring wind of His permission 
-demonic gashes of black paint
-she faces the masks
-she masks her terror even even when 
-husband on your return oh even now
-riding turn turn back
-(the trestle table overturned
-and pewter rolling in the deathly silence
-after the screaming is stilled.)</p>
-
-<p>And all along she knew
-about this open savage world
-where bear wolf fox
-but oh, even here God&rsquo;s mercy
-surmounting man&rsquo;s cruelty
-&mdash;was that an owl that hooted in broad day? 
-So close? A fox that barked? An axe 
-there in the doorway.
-Now she is in some inner circle
-of hell. They slashed right through 
-her ordered spheres. <strong>I bore this
-as well as I could</strong> she glances up 
-into the deepening cup of blue
-that has its center surely still in Him? 
-If she could find her way &mdash;</p>
-
-<p>stumbling through woods &mdash; a fallen birch &mdash; 
-somehow climbs over it with torn hands, 
-ripped skirt &mdash; blood on her arms &mdash; the baby? 
-He is carrying it, the same who &mdash;
-Was it just this morning? Was it just?
-Was it God's punishment? This morning
-has no beginning &mdash; she has from eternity
-been stumbling through the forest.
-The wilderness has sent its spirits
-to fetch her &mdash; but what of the Lord's Holy Spirit? 
-You are not touched nor injured.
-<strong>There was no resisting&hellip;</strong></p>
-
-<p>Splashing through swamps beyond the known world. 
-How many miles guarded, impenetrable, by alders? 
-Terra incognita. Her terror
-somewhat abates. Ebbs toward exhaustion.
-He, burdened with spoils, still carries 
-her new-born baby. Leads her
-<strong>which I took to be a favour from him</strong> 
-by the hand through streams.
-She murmurs to her older daughters,
-lifts her small Eben over mossy logs,
-treads brambles underfoot. <strong>Not daring
-to appear troubled or show much uneasiness lest &mdash;</strong></p>
+<li>Rehearsed and never quite believed in<br>
+that moment when the curtain dimity, velvet<br>
+(the face of terror) slashed naked<br>
+the cloak now avails<br>
+before the scouring wind of His permission <br>
+demonic gashes of black paint<br>
+she faces the masks<br>
+she masks her terror even even when <br>
+husband on your return oh even now<br>
+riding turn turn back<br>
+(the trestle table overturned<br>
+and pewter rolling in the deathly silence<br>
+after the screaming is stilled.)<br>
+<br>
+And all along she knew<br>
+about this open savage world<br>
+where bear wolf fox<br>
+but oh, even here God&rsquo;s mercy<br>
+surmounting man&rsquo;s cruelty<br>
+&mdash;was that an owl that hooted in broad day? <br>
+So close? A fox that barked? An axe <br>
+there in the doorway.<br>
+Now she is in some inner circle<br>
+of hell. They slashed right through <br>
+her ordered spheres. <strong>I bore this<br>
+as well as I could</strong> she glances up <br>
+into the deepening cup of blue<br>
+that has its center surely still in Him? <br>
+If she could find her way &mdash;<br>
+<br>
+stumbling through woods &mdash; a fallen birch &mdash; <br>
+somehow climbs over it with torn hands, <br>
+ripped skirt &mdash; blood on her arms &mdash; the baby?<br> 
+He is carrying it, the same who &mdash;<br>
+Was it just this morning? Was it just?<br>
+Was it God's punishment? This morning<br>
+has no beginning &mdash; she has from eternity<br>
+been stumbling through the forest.<br>
+The wilderness has sent its spirits<br>
+to fetch her &mdash; but what of the Lord's Holy Spirit? <br>
+You are not touched nor injured.<br>
+<strong>There was no resisting&hellip;</strong><br>
+<br>
+Splashing through swamps beyond the known world. <br>
+How many miles guarded, impenetrable, by alders? <br>
+Terra incognita. Her terror<br>
+somewhat abates. Ebbs toward exhaustion.<br>
+He, burdened with spoils, still carries<br> 
+her new-born baby. Leads her<br>
+<strong>which I took to be a favour from him</strong> <br>
+by the hand through streams.<br>
+She murmurs to her older daughters,<br>
+lifts her small Eben over mossy logs,<br>
+treads brambles underfoot. <strong>Not daring<br>
+to appear troubled or show much uneasiness lest &mdash;</strong><br>
 </li>
 
-<li><p><strong>At the side of the river
-the Indians would have my oldest daughter 
-sing them a song.
-Then was brought to my remembrance the psalm,
-&ldquo;By the rivers of Babylon there we sat down,
-yea we wept when we remembered Zion.&rdquo; And my heart 
-was very full of trouble.</strong></p>
-
-<p>He scowls, impatient.
-&ldquo;Now then! Red Otter, powerful river-woman, 
-you have come to listen. Quickly
-you have arisen. You will carry me across,
-you will take me to the far bank,
-you walk strongly through the current,
-you play in the cold waters,
-you have come to listen. Sharply!&rdquo;</p>
-
-<p>His song steadying the water,
-his friends each greeting the river.
-But the captives &mdash; who will teach them, 
-ignorant and rude? &ldquo;Sing!
-Sing the white man's greeting.
-Or River-woman will drown you.&rdquo;</p>
-
-<p><strong>&ldquo;For they that carried us away captive 
-required of us a song&rdquo;</strong></p>
-
-<p>Up to their necks in the river,
-&ldquo;oh spare&rdquo; &mdash; and the boy on his shoulders 
-yea, the Red Sea did part for them
-and if I put one foot before the other &mdash;
-the rocks slippery as glass &mdash; my baby
-rest safe against my shoulder &mdash;
-&ldquo;Sarah &mdash; your sister's hand&rdquo;
-careful &mdash; the water's gentle &mdash; so.</p>
-
-<p>&ldquo;Red Otter this woman and her young 
-have a white spirit,
-you are hearing of it, you are listening, 
-they are crossing the water,
-their spirit greets you.&rdquo;</p>
-
-<p>After the river, mountains &mdash;
-breathless clinging to granite spurs,
-her flesh still tremulous from childbed
-and craving rest &mdash; and Eben starting up in terror 
-each night. She tries to hold
-some picture &mdash; a map &mdash; in her head,
-looks back &mdash; pebbles
-agleam in moonlight, marking the trail?</p>
-
-<p>Is there a way back?
-Does God still see her plainly,
-lost among the endless trees? (In his sleep 
-Eben cried out &ldquo;Papa! Papa&rdquo;!)
-Oh, riding after them! Blot out
-the image swimming before her eyes
-&mdash; he, arrived home, quickly surrounded, clubbed &mdash; 
-Dear Lord! He lives. Though she
-as in a nightmare, works her laboring way
-further and further from his reach.</p>
+<li><strong>At the side of the river<br>
+the Indians would have my oldest daughter <br>
+sing them a song.<br>
+Then was brought to my remembrance the psalm,<br>
+&ldquo;By the rivers of Babylon there we sat down,<br>
+yea we wept when we remembered Zion.&rdquo; And my heart <br>
+was very full of trouble.</strong><br>
+<br>
+He scowls, impatient.<br>
+&ldquo;Now then! Red Otter, powerful river-woman, <br>
+you have come to listen. Quickly<br>
+you have arisen. You will carry me across,<br>
+you will take me to the far bank,<br>
+you walk strongly through the current,<br>
+you play in the cold waters,<br>
+you have come to listen. Sharply!&rdquo;<br>
+<br>
+His song steadying the water,<br>
+his friends each greeting the river.<br>
+But the captives &mdash; who will teach them, <br>
+ignorant and rude? &ldquo;Sing!<br>
+Sing the white man's greeting.<br>
+Or River-woman will drown you.&rdquo;<br>
+<br>
+<strong>&ldquo;For they that carried us away captive <br>
+required of us a song&rdquo;</strong><br>
+<br>
+Up to their necks in the river,<br>
+&ldquo;oh spare&rdquo; &mdash; and the boy on his shoulders <br>
+yea, the Red Sea did part for them<br>
+and if I put one foot before the other &mdash;<br>
+the rocks slippery as glass &mdash; my baby<br>
+rest safe against my shoulder &mdash;<br>
+&ldquo;Sarah &mdash; your sister's hand&rdquo;<br>
+careful &mdash; the water's gentle &mdash; so.<br>
+<br>
+&ldquo;Red Otter this woman and her young <br>
+have a white spirit,<br>
+you are hearing of it, you are listening, <br>
+they are crossing the water,<br>
+their spirit greets you.&rdquo;<br>
+<br>
+After the river, mountains &mdash;<br>
+breathless clinging to granite spurs,<br>
+her flesh still tremulous from childbed<br>
+and craving rest &mdash; and Eben starting up in terror <br>
+each night. She tries to hold<br>
+some picture &mdash; a map &mdash; in her head,<br>
+looks back &mdash; pebbles<br>
+agleam in moonlight, marking the trail?<br>
+<br>
+Is there a way back?<br>
+Does God still see her plainly,<br>
+lost among the endless trees? (In his sleep <br>
+Eben cried out &ldquo;Papa! Papa&rdquo;!)<br>
+Oh, riding after them! Blot out<br>
+the image swimming before her eyes<br>
+&mdash; he, arrived home, quickly surrounded, clubbed &mdash; <br>
+Dear Lord! He lives. Though she<br>
+as in a nightmare, works her laboring way<br>
+further and further from his reach.<br>
 </li>
-<li><p><strong>Having by this time
-got considerably on the way &mdash;</strong> groping 
-through blaze of autumn maples,
-notes the wild loveliness, as one might say 
-one and one makes two.</p>
-
-<p>Mercifully, a halt. Sinks down,
-unbuttons her bodice for the suckling child 
-while her own stomach gripes with hunger, 
-<strong>having at times nothing to eat
-but pieces of old beaverskin coats
-used more for food than raiment.</strong>
-&ldquo;Sarah, help Eben, he would search,
-poor mite, for cranberries.&rdquo;</p>
-
-<p>The Indians are at some distance,
-talking. Low voices, angular gestures &mdash;
-she shivers, watches
-with downcast lids. &ldquo;Mary, you have learned 
-some words, what&rdquo; &mdash; do not meet their eyes. 
-<strong>Having got considerably on the way,
-the Indians parted, and we
-must be divided amongst them.
-This was a sore grief to us all.</strong></p>
-
-<p>The short one with thick braids
-is coming toward them
-takes Sarah by the hand, points
-toward the Western hills. &ldquo;Mama?&rdquo;
-Throat dry, eyes frantic from one to the other, 
-leaps &mdash; &ldquo;my Sarah!&rdquo; &mdash; to her feet, the baby 
-put down in haste. Holds her, will not
-be moved, not let her go, face
-pressed into her shoulder &mdash; &ldquo;child&rdquo; &mdash; 
-<strong>My eldest daughter was first taken away.</p>
-
-<p>We did not travel far
-before they took my second daughter from me, 
-I having now
-only my babe at the breast
-and little boy six years old.</strong></p>
+<li><strong>Having by this time<br>
+got considerably on the way &mdash;</strong> groping <br>
+through blaze of autumn maples,<br>
+notes the wild loveliness, as one might say <br>
+one and one makes two.<br>
+<br>
+Mercifully, a halt. Sinks down,<br>
+unbuttons her bodice for the suckling child <br>
+while her own stomach gripes with hunger, <br>
+<strong>having at times nothing to eat<br>
+but pieces of old beaverskin coats<br>
+used more for food than raiment.</strong><br>
+&ldquo;Sarah, help Eben, he would search,<br>
+poor mite, for cranberries.&rdquo;<br>
+<br>
+The Indians are at some distance,<br>
+talking. Low voices, angular gestures &mdash;<br>
+she shivers, watches<br>
+with downcast lids. &ldquo;Mary, you have learned <br>
+some words, what&rdquo; &mdash; do not meet their eyes. <br>
+<strong>Having got considerably on the way,<br>
+the Indians parted, and we<br>
+must be divided amongst them.<br>
+This was a sore grief to us all.</strong><br>
+<br>
+The short one with thick braids<br>
+is coming toward them<br>
+takes Sarah by the hand, points<br>
+toward the Western hills. &ldquo;Mama?&rdquo;<br>
+Throat dry, eyes frantic from one to the other, <br>
+leaps &mdash; &ldquo;my Sarah!&rdquo; &mdash; to her feet, the baby <br>
+put down in haste. Holds her, will not<br>
+be moved, not let her go, face<br>
+pressed into her shoulder &mdash; &ldquo;child&rdquo; &mdash; <br>
+<strong>My eldest daughter was first taken away.<br>
+<br>
+We did not travel far<br>
+before they took my second daughter from me, <br>
+I having now<br>
+only my babe at the breast<br>
+and little boy six years old.</strong><br>
 </li>
-<li><p>He watches, awake in the deep forest &mdash; 
-Union-of-Rivers and Bear, those shining ones, 
-skunk-tree sisters talking all night long.
-They say frost, they whisper
-far, alone. Mooneye. Wind from good hunting. 
-Answer-stone in his right hand.
-Owl pipe shares his breath, smoke
-blown in the four directions.</p>
-
-<p>Brings-me-luck sleeps.
-White like death yet lives,
-hair like sacred pollen &mdash; 
-Brings-me-luck. Awiyah, antlered one 
-see she brings no misfortune to me.</p>
-
-<p>Best he kills them? A white trail
-where sickness walks? A notch in the circle 
-where good luck streams in for him.
-The axe lies alive at his side but
-it is no, it is sleeping &mdash; she sleeps, moans, 
-little Hold-tight curled against her.
-Coins like grains of corn
-will flow into his hand
-from his captives. Ha, the forest people.
-Old woman birch has never seen
-such ones &mdash; white bark like hers &mdash;
-do not belong here.
-Belong to him. We will pass through quickly. 
-Soon snow will fill our footprints.</p>
-
-<p><strong>At night I was both wet and tired exceedingly, 
-lying on the cold ground
-in the open woods.</strong></p>
+<li>He watches, awake in the deep forest &mdash; <br>
+Union-of-Rivers and Bear, those shining ones, <br>
+skunk-tree sisters talking all night long.<br>
+They say frost, they whisper<br>
+far, alone. Mooneye. Wind from good hunting. <br>
+Answer-stone in his right hand.<br>
+Owl pipe shares his breath, smoke<br>
+blown in the four directions.<br>
+<br>
+Brings-me-luck sleeps.<br>
+White like death yet lives,<br>
+hair like sacred pollen &mdash; <br>
+Brings-me-luck. Awiyah, antlered one <br>
+see she brings no misfortune to me.<br>
+<br>
+Best he kills them? A white trail<br>
+where sickness walks? A notch in the circle <br>
+where good luck streams in for him.<br>
+The axe lies alive at his side but<br>
+it is no, it is sleeping &mdash; she sleeps, moans, <br>
+little Hold-tight curled against her.<br>
+Coins like grains of corn<br>
+will flow into his hand<br>
+from his captives. Ha, the forest people.<br>
+Old woman birch has never seen<br>
+such ones &mdash; white bark like hers &mdash;<br>
+do not belong here.<br>
+Belong to him. We will pass through quickly. <br>
+Soon snow will fill our footprints.<br>
+<br>
+<strong>At night I was both wet and tired exceedingly, <br>
+lying on the cold ground<br>
+in the open woods.</strong><br>
 </li>
-<li><p>Bone-weary, one foot before the other,
-<strong>Our shoes and stockings being done
-and our clothes worn out in that long journey
-and the weather coming in very hard</strong> &mdash; little Eben 
-drags at her skirt until she feels
-she walks for both, and when he stumbles
-she falls, bruising her knee.
-She feels the blood
-drain from her face. Prays she has not
-been noticed.</p>
-
-<p>A memory haunts her: she, a young wife,
-in Deerfield with her husband on his business. 
-The great Mr. Williams is to preach that day. 
-She is afraid to ask, they being Quakers,
-if she might hear the famous minister, 
-captured by Indians and newly freed
-by the grace of God. And lo, the Lord 
-(foreknowing her future need)
-moves John to grant her wish before she asks.</p>
-
-<p>To know that others have walked this trail,
-have suffered like her, have won through to redemption
-&mdash; it strengthens her, hope surges through her body.
-I will survive, according to thy will, I and my children.</p>
-
-<p>And suddenly she aches with wanting.
-To feel John's arms around her one more time.</p>
+<li>Bone-weary, one foot before the other,<br>
+<strong>Our shoes and stockings being done<br>
+and our clothes worn out in that long journey<br>
+and the weather coming in very hard</strong> &mdash; little Eben <br>
+drags at her skirt until she feels<br>
+she walks for both, and when he stumbles<br>
+she falls, bruising her knee.<br>
+She feels the blood<br>
+drain from her face. Prays she has not<br>
+been noticed.<br>
+<br>
+A memory haunts her: she, a young wife,<br>
+in Deerfield with her husband on his business. <br>
+The great Mr. Williams is to preach that day. <br>
+She is afraid to ask, they being Quakers,<br>
+if she might hear the famous minister, <br>
+captured by Indians and newly freed<br>
+by the grace of God. And lo, the Lord <br>
+(foreknowing her future need)<br>
+moves John to grant her wish before she asks.<br>
+<br>
+To know that others have walked this trail,<br>
+have suffered like her, have won through to redemption<br>
+&mdash; it strengthens her, hope surges through her body.<br>
+I will survive, according to thy will, I and my children.<br>
+<br>
+And suddenly she aches with wanting.<br>
+To feel John's arms around her one more time.<br>
 </li>
 
-<li><p>By a sweet stream, a clearing.
-Corn-hills, familiar, a dear sight
-beside the wigwams strewn like woody baskets 
-among the birches &mdash; <strong>a kind of little shelter 
-made with the rinds of trees.</strong></p>
-
-<p>How still the women &mdash; their dark eyes 
-not unkind? Watchful. She too. Eben 
-behind her skirt, peeps out
-at her master's little naked boy.
-Dare she sit down?</p>
-
-<p>She starts, chokes back a scream &mdash;
-at the clearing's edge,
-a band of painted savages, a din
-like hail or a whole nest of rattlesnakes &mdash;</p>
-
-<p>&ldquo;He has returned with gifts.
-Bear made his heart fierce.
-Wolf was shadow in the forest.
-Crow saw keenly, saw the unknown land.
-He with his companions approached the hostile place. 
-Blood was on the enemy's sleeping robe.
-Death was on the enemy's hearth.
-The work of his axe was they-do-not-rise.</p>
-
-<p>He has returned
-with gifts of beauty.
-He does not forget the women
-who wait for him.
-He does not forget his brothers.&rdquo;
-<strong>The Indians welcomed my master home
-with dancing, shouting and beating on hollow trees 
-which, I suppose, in their thoughts
-was a kind of thanks to God
-put up for their safe return and
-good success.</strong></p>
-
-<p>&ldquo;My husband has brought you,
-white woman and your children.
-You will share our wigwam and our work.&rdquo;</p>
-
-<p>They touch her arms, breathe in
-her strange, pale scent.
-They murmur over the whiteman gifts
-&mdash; a great black iron kettle. 
-Knives that bite through moosehide
-as though it were the finest fawnskin, 
-scarlet wool the captive 
-woman knows how to fashion into stockings.</p>
-
-<p>&ldquo;My son has brought you to us. 
-You will share our corn and meat.&rdquo;</p>
-
-<p><strong>In plentiful time I felt the comfort of it, 
-having a portion given
-for me and my little ones
-which was very acceptable. When flesh was scarce
-we had the guts and garbage 
-allowed us. But pinching hunger 
-makes every bitter thing sweet.</strong></p>
-
-<p>Her hands are willing. She cuts wood, 
-gathers nuts and acorns. Fetches water 
-in a birchbark bucket
-cunningly stitched with pine roots. 
-Spotted Deer minds the baby,
-wraps it snug on her own cradle board, 
-sings Little Partridge, Little Star-eye to it
-&mdash; why does Brings-me-luck frown? But the baby 
-cries, cries &mdash; a thin hunger-wail &mdash;
-does she not fear to anger him? He will flare.</p>
-
-<p><strong>I was brought so low my milk dried up,
-my baby very poor and weak.
-I could perceive its bones
-from one end of its back to the other.</strong>
-She fills her mouth with water, dribbles it
-down her breast into the baby's mouth.
-Are all white women thus helpless? Sees-the-Sun 
-pounds walnuts for it into paste,
-boils them with cornmeal.
-<strong>It began to thrive,
-which was before more like to die than live.</strong></p>
+<li>By a sweet stream, a clearing.<br>
+Corn-hills, familiar, a dear sight<br>
+beside the wigwams strewn like woody baskets <br>
+among the birches &mdash; <strong>a kind of little shelter <br>
+made with the rinds of trees.</strong><br>
+<br>
+How still the women &mdash; their dark eyes <br>
+not unkind? Watchful. She too. Eben <br>
+behind her skirt, peeps out<br>
+at her master's little naked boy.<br>
+Dare she sit down?<br>
+<br>
+She starts, chokes back a scream &mdash;<br>
+at the clearing's edge,<br>
+a band of painted savages, a din<br>
+like hail or a whole nest of rattlesnakes &mdash;<br>
+<br>
+&ldquo;He has returned with gifts.<br>
+Bear made his heart fierce.<br>
+Wolf was shadow in the forest.<br>
+Crow saw keenly, saw the unknown land.<br>
+He with his companions approached the hostile place. <br>
+Blood was on the enemy's sleeping robe.<br>
+Death was on the enemy's hearth.<br>
+The work of his axe was they-do-not-rise.<br>
+<br>
+He has returned<br>
+with gifts of beauty.<br>
+He does not forget the women<br>
+who wait for him.<br>
+He does not forget his brothers.&rdquo;<br>
+<strong>The Indians welcomed my master home<br>
+with dancing, shouting and beating on hollow trees <br>
+which, I suppose, in their thoughts<br>
+was a kind of thanks to God<br>
+put up for their safe return and<br>
+good success.</strong><br>
+<br>
+&ldquo;My husband has brought you,<br>
+white woman and your children.<br>
+You will share our wigwam and our work.&rdquo;<br>
+<br>
+They touch her arms, breathe in<br>
+her strange, pale scent.<br>
+They murmur over the whiteman gifts<br>
+&mdash; a great black iron kettle. <br>
+Knives that bite through moosehide<br>
+as though it were the finest fawnskin, <br>
+scarlet wool the captive <br>
+woman knows how to fashion into stockings.<br>
+<br>
+&ldquo;My son has brought you to us. <br>
+You will share our corn and meat.&rdquo;<br>
+<br>
+<strong>In plentiful time I felt the comfort of it, <br>
+having a portion given<br>
+for me and my little ones<br>
+which was very acceptable. When flesh was scarce<br>
+we had the guts and garbage <br>
+allowed us. But pinching hunger <br>
+makes every bitter thing sweet.</strong><br>
+<br>
+Her hands are willing. She cuts wood, <br>
+gathers nuts and acorns. Fetches water <br>
+in a birchbark bucket<br>
+cunningly stitched with pine roots. <br>
+Spotted Deer minds the baby,<br>
+wraps it snug on her own cradle board, <br>
+sings Little Partridge, Little Star-eye to it<br>
+&mdash; why does Brings-me-luck frown? But the baby <br>
+cries, cries &mdash; a thin hunger-wail &mdash;<br>
+does she not fear to anger him? He will flare.<br>
+<br>
+<strong>I was brought so low my milk dried up,<br>
+my baby very poor and weak.<br>
+I could perceive its bones<br>
+from one end of its back to the other.</strong><br>
+She fills her mouth with water, dribbles it<br>
+down her breast into the baby's mouth.<br>
+Are all white women thus helpless? Sees-the-Sun <br>
+pounds walnuts for it into paste,<br>
+boils them with cornmeal.<br>
+<strong>It began to thrive,<br>
+which was before more like to die than live.</strong><br>
 </li>
-<li><p>Spotted Deer is tickling the baby 
-pressing her face against its belly.
-The baby's spirit has crept into her own, 
-a small raccoon into a mossy hollow
-&mdash; if she could keep it?
-Why after Little Feather
-have no more come?</p>
-
-<p>Would he give her the baby?
-But Brings-me-luck &mdash; she tries to think 
-how it was: led from her wigwam
-by men in their beautiful, violent paint, 
-the days and nights in the forest,
-her strange, flimsy moccasins
-and dress that tears on every branch.</p>
-
-<p>She has seen Brings-me-luck weep,
-and felt shame for her. 
-But again and again the picture comes &mdash;
-Brings-me-luck in her wigwam
-sitting on lace instead of furs
-and the black kettle bubbling.
-She is making cloth with two sticks. 
-Why is her husband not there?</p>
-
-<p>She offers her a handful
-of her best dyed porcupine quills.
-But Brings-me-luck has not been properly taught. 
-Spotted Deer shows her
-how they weave in and out of deerskin,
-but her hands refuse to understand.
-There are tears in her pale eyes.</p>
-
-<p>Spotted Deer frowns, thinks
-I would not disgrace my lineage like that 
-and turns back to the baby.
-It coos, and the two women's glances meet. 
-Both are soft with love.</p>
+<li>Spotted Deer is tickling the baby <br>
+pressing her face against its belly.<br>
+The baby's spirit has crept into her own, <br>
+a small raccoon into a mossy hollow<br>
+&mdash; if she could keep it?<br>
+Why after Little Feather<br>
+have no more come?<br>
+<br>
+Would he give her the baby?<br>
+But Brings-me-luck &mdash; she tries to think <br>
+how it was: led from her wigwam<br>
+by men in their beautiful, violent paint, <br>
+the days and nights in the forest,<br>
+her strange, flimsy moccasins<br>
+and dress that tears on every branch.<br>
+<br>
+She has seen Brings-me-luck weep,<br>
+and felt shame for her. <br>
+But again and again the picture comes &mdash;<br>
+Brings-me-luck in her wigwam<br>
+sitting on lace instead of furs<br>
+and the black kettle bubbling.<br>
+She is making cloth with two sticks. <br>
+Why is her husband not there?<br>
+<br>
+She offers her a handful<br>
+of her best dyed porcupine quills.<br>
+But Brings-me-luck has not been properly taught. <br>
+Spotted Deer shows her<br>
+how they weave in and out of deerskin,<br>
+but her hands refuse to understand.<br>
+There are tears in her pale eyes.<br>
+<br>
+Spotted Deer frowns, thinks<br>
+I would not disgrace my lineage like that <br>
+and turns back to the baby.<br>
+It coos, and the two women's glances meet. <br>
+Both are soft with love.<br>
 </li>
-<li><p>It is the Lord's day. She has put aside
-her master's half-knit stocking. Has permission 
-to visit the old squaw
-whose wigwam skirts the clearing's furthest edge
-&mdash; slips past, into the woods,
-with Eben at her heels, the boy
-as stealthy in his moccasins as any Indian.</p>
-
-<p>She leans against a rough-barked spruce, 
-imagines herself at Meeting, wills herself 
-among the congregation, close beside him
-&mdash; dear God, may he be well!
-Sarah, Mary &mdash; Holy Spirit, thy grace &mdash;
-the blessing of His presence &mdash; her heart lifts &mdash;</p>
-
-<p>&ldquo;Mama.&rdquo; Eben holds out
-a fan of bronze and crimson leaves.
-&ldquo; &mdash; because they killed the sky bear. That's his blood
-on the leaves in fall, I saw him
-among the stars last night. Little Feather showed me &mdash; &rdquo;</p>
-
-<p>Jolted out of herself &mdash; &ldquo;child!
-What dreadful untruths &mdash; 'tis their heathen tales. 
-You must not&rdquo; &mdash; only God
-can redden these woods, redeem
-all fallen nature with His blood,
-redeem His captive people &mdash;</p>
-
-<p><strong>neither could I ever think
-but that our lives would be preserved
-by the overruling power of Him
-in whom I put my trust both day and night.</strong></p>
+<li>It is the Lord's day. She has put aside<br>
+her master's half-knit stocking. Has permission <br>
+to visit the old squaw<br>
+whose wigwam skirts the clearing's furthest edge<br>
+&mdash; slips past, into the woods,<br>
+with Eben at her heels, the boy<br>
+as stealthy in his moccasins as any Indian.<br>
+<br>
+She leans against a rough-barked spruce, <br>
+imagines herself at Meeting, wills herself <br>
+among the congregation, close beside him<br>
+&mdash; dear God, may he be well!<br>
+Sarah, Mary &mdash; Holy Spirit, thy grace &mdash;<br>
+the blessing of His presence &mdash; her heart lifts &mdash;<br>
+<br>
+&ldquo;Mama.&rdquo; Eben holds out<br>
+a fan of bronze and crimson leaves.<br>
+&ldquo; &mdash; because they killed the sky bear. That's his blood<br>
+on the leaves in fall, I saw him<br>
+among the stars last night. Little Feather showed me &mdash; &rdquo;<br>
+<br>
+Jolted out of herself &mdash; &ldquo;child!<br>
+What dreadful untruths &mdash; 'tis their heathen tales. <br>
+You must not&rdquo; &mdash; only God<br>
+can redden these woods, redeem<br>
+all fallen nature with His blood,<br>
+redeem His captive people &mdash;<br>
+<br>
+<strong>neither could I ever think<br>
+but that our lives would be preserved<br>
+by the overruling power of Him<br>
+in whom I put my trust both day and night.</strong><br>
 </li>
-<li><p><strong>Then it was that the Lord
-struck my master with great sickness 
-and violent pain &mdash;</strong></p>
-
-<p>He burns with fever, he shivers
-&mdash; what creature has sent this thing?
-Bear, thick-fur, you are not offended, 
-the hunters give back your bones, 
-they are robed in strength,
-you feast with the people,
-your spirit is not offended.</p>
-
-<p>Deer, silent suddenly-there,
-you wait at the killing place,
-the stamping of your hoofs is come-my-brothers, 
-the people honor your flesh,
-your spirit is not offended.</p>
-
-<p>But black ice fastens upon his bones, 
-he breathes pain.
-Ghost-woman bends and sways 
-there in the shadows, white 
-mushrooms gleaming on dead wood
-&mdash; each blow he struck
-now striking his own skull,
-the stick he flung yesterday at her cub 
-pounding his ribs.</p>
-
-<p><strong>My child was much bruised,
-and the pain made him pale as death. 
-I entreated him not to cry &mdash;</strong></p>
-
-<p>Sees-the-sun puts on her snowshoes, 
-folds a pair of newly beaded leggings 
-into her deerskin pouch.
-In the next village lives a <em>m'teoulin</em>,
-a man of power.
-She starts along the barely visible trail.</p>
-
-<p>Birch girls go beside her
-clothed in blue lichen; glimpse
-of red-fur, snow birds &mdash;
-does the burnt skunk-tree still stand 
-still put out new green needles
-in hunger-moon?</p>
-
-<p>But her spirit trembles.
-May he be well,
-may the evil thing leave him &mdash;
-may the great dying not return &mdash; death 
-feasting in every wigwam. Let healing come &mdash;</p>
-
-<p>She stares. Above the trees, black shape, 
-fringed wings sweeping the air,
-harsh voice &mdash; her birthname, secret self &mdash; 
-she stands, rooted in stillness, breathes
-&ldquo;Grandfather Raven&rdquo; &mdash; fierce dark eye
-fastened to hers &mdash; yes, and yes</p>
-
-<p>gone. Power song pouring 
-from her throat
-there on the snowy trail.</p>
-
-<p>Wind-fingers streak her face &mdash;
-how far has she come? Already
-the first meat-drying racks are visible.
-She makes a quick prayer to the four directions.</p>
+<li><strong>Then it was that the Lord<br>
+struck my master with great sickness <br>
+and violent pain &mdash;</strong><br>
+<br>
+He burns with fever, he shivers<br>
+&mdash; what creature has sent this thing?<br>
+Bear, thick-fur, you are not offended, <br>
+the hunters give back your bones, <br>
+they are robed in strength,<br>
+you feast with the people,<br>
+your spirit is not offended.<br>
+<br>
+Deer, silent suddenly-there,<br>
+you wait at the killing place,<br>
+the stamping of your hoofs is come-my-brothers, <br>
+the people honor your flesh,<br>
+your spirit is not offended.<br>
+<br>
+But black ice fastens upon his bones, <br>
+he breathes pain.<br>
+Ghost-woman bends and sways <br>
+there in the shadows, white <br>
+mushrooms gleaming on dead wood<br>
+&mdash; each blow he struck<br>
+now striking his own skull,<br>
+the stick he flung yesterday at her cub <br>
+pounding his ribs.<br>
+<br>
+<strong>My child was much bruised,<br>
+and the pain made him pale as death. <br>
+I entreated him not to cry &mdash;</strong><br>
+<br>
+Sees-the-sun puts on her snowshoes, <br>
+folds a pair of newly beaded leggings <br>
+into her deerskin pouch.<br>
+In the next village lives a <em>m'teoulin</em>,<br>
+a man of power.<br>
+She starts along the barely visible trail.<br>
+<br>
+Birch girls go beside her<br>
+clothed in blue lichen; glimpse<br>
+of red-fur, snow birds &mdash;<br>
+does the burnt skunk-tree still stand <br>
+still put out new green needles<br>
+in hunger-moon?<br>
+<br>
+But her spirit trembles.<br>
+May he be well,<br>
+may the evil thing leave him &mdash;<br>
+may the great dying not return &mdash; death <br>
+feasting in every wigwam. Let healing come &mdash;<br>
+<br>
+She stares. Above the trees, black shape, <br>
+fringed wings sweeping the air,<br>
+harsh voice &mdash; her birthname, secret self &mdash; <br>
+she stands, rooted in stillness, breathes<br>
+&ldquo;Grandfather Raven&rdquo; &mdash; fierce dark eye<br>
+fastened to hers &mdash; yes, and yes<br>
+<br>
+gone. Power song pouring <br>
+from her throat<br>
+there on the snowy trail.<br>
+<br>
+Wind-fingers streak her face &mdash;<br>
+how far has she come? Already<br>
+the first meat-drying racks are visible.<br>
+She makes a quick prayer to the four directions.<br>
 </li>
-<li><p>Beside the sick man, the <em>m'teoulin</em>
-prepares the plant called when-their-saliva-is-bitter, 
-sings the chant of driving it out.</p>
-
-<p>&ldquo;Now then! You have come to listen,
-Little Whirlwind, wizard!
-Among the stretched-out branches of the mountain 
-You sweep it away
-You toss it about
-You scatter it
-Ha-yi!</p>
-
-<p>You and I facing each other 
+<li>Beside the sick man, the <em>m'teoulin</em><br>
+prepares the plant called when-their-saliva-is-bitter, <br>
+sings the chant of driving it out.<br>
+<br>
+&ldquo;Now then! You have come to listen,<br>
+Little Whirlwind, wizard!<br>
+Among the stretched-out branches of the mountain <br>
+You sweep it away<br>
+You toss it about<br>
+You scatter it<br>
+Ha-yi!<br>
+<br>
+You and I facing each other <br>
 Little Whirlwind, wizard! 
-You do not fail
-You drive it into the marsh 
-You brush it away.
-Healing has been done,
-It has been done indeed. Ha-yi!&rdquo;</p>
-
-<p>Tobacco smoke cool cloud 
-against his forehead,
-bitter, healing drink
-over his swollen tongue 
-carrying away the evil thing.</p>
-
-<p><strong>He soon recovered,
-nor do I remember
-he ever after struck me or my children again. 
-This I took as the Lord's doing,
-and it was marvellous in my eyes.</strong></p>
+You do not fail<br>
+You drive it into the marsh <br>
+You brush it away.<br>
+Healing has been done,<br>
+It has been done indeed. Ha-yi!&rdquo;<br>
+<br>
+Tobacco smoke cool cloud <br>
+against his forehead,<br>
+bitter, healing drink<br>
+over his swollen tongue <br>
+carrying away the evil thing.<br>
+<br>
+<strong>He soon recovered,<br>
+nor do I remember<br>
+he ever after struck me or my children again. <br>
+This I took as the Lord's doing,<br>
+and it was marvellous in my eyes.</strong><br>
 </li>
-<li><p>The circle of the People
-is broken, and power streams out of it. 
-He dreams a moose across the river, 
-but no moose comes to his gun. 
-Beaver woman has left her lodge
-and taken all her people with her.</p>
-
-<p>He is shamed. Spotted Deer and Sees-the-Sun 
-boil an old horse's foot
-in the black iron kettle
-but the broth gives no strength.
-Little Feather
-lies curled like a puppy on his deerskin 
-and will not play
-and will not wear his fine new shirt.</p>
-
-<p>A handful of groundnuts 
-turns to foul slime in his fist. 
-Snow hides the sky, the trees 
-groan with it. At night 
-Sees-the-sun coughs. Blood 
-speckles her sleeve.</p>
-
-<p><strong>I dreaded his returning empty 
-and prayed secretly in my heart 
-that he might catch some food &mdash;</strong></p>
-
-<p>But he comes back with nothing,
-in a rage. His eyes search the wigwam.
-&ldquo;Too many bellies to fill&rdquo; &mdash;
-stroking his axe. Spotted Deer
-turns rigid, glances
-at Brings-me-luck shrinking in the shadows. 
-&ldquo;Ransom would bring us food&rdquo; she murmurs.</p>
-
-<p>&ldquo;Whiteman food! Who knows
-if anyone will buy her?
-And the journey is long and bitter &mdash; 
-she will die on the way.&rdquo;</p>
-
-<p>Sees-the-sun stands, faces him
-but will not anger him by meeting his eyes. 
-&ldquo;Brings-me-luck has brought ill fortune to us. 
-Her white smell frightens the deer.
-Her coming and going offends Beaver Woman. 
-Her son eats Little Feather's food.
-But killing her will fasten her spirit
-upon our wigwam. Evil
-will dwell with us. At last the village
-will cast us out.</p>
-
-<p>My son, it is long
-since you summoned the small spotted ones, 
-the good tribe underground. 
-Their words have always been true.
-Let them help us now.&rdquo;</p>
-
-<p>He scowls, but the next night
-he builds a little lodge
-of saplings. Makes fire. The women 
-see the branch walls bulge and shake. 
-They peep between the cracks.</p>
-
-<p>Fire shines on him. Around the blaze 
-the salamander tribe with yellow spots 
-stand upright, flicking their tongues. 
-He listens.</p>
-
-<p><strong>After this he would not suffer me 
-in his presence.
-We made another remove,
-it being two day&rsquo;s journey,
-and mostly upon the ice.
-He took me to the French
-and I was with my baby ransomed; 
-my little boy likewise at the same time 
-was redeemed also.</strong></p></li>
+<li>The circle of the People<br>
+is broken, and power streams out of it. <br>
+He dreams a moose across the river, <br>
+but no moose comes to his gun. <br>
+Beaver woman has left her lodge<br>
+and taken all her people with her.<br>
+<br>
+He is shamed. Spotted Deer and Sees-the-Sun <br>
+boil an old horse's foot<br>
+in the black iron kettle<br>
+but the broth gives no strength.<br>
+Little Feather<br>
+lies curled like a puppy on his deerskin <br>
+and will not play<br>
+and will not wear his fine new shirt.<br>
+<br>
+A handful of groundnuts <br>
+turns to foul slime in his fist. <br>
+Snow hides the sky, the trees <br>
+groan with it. At night <br>
+Sees-the-sun coughs. Blood <br>
+speckles her sleeve.<br>
+<br>
+<strong>I dreaded his returning empty <br>
+and prayed secretly in my heart <br>
+that he might catch some food &mdash;</strong><br>
+<br>
+But he comes back with nothing,<br>
+in a rage. His eyes search the wigwam.<br>
+&ldquo;Too many bellies to fill&rdquo; &mdash;<br>
+stroking his axe. Spotted Deer<br>
+turns rigid, glances<br>
+at Brings-me-luck shrinking in the shadows. <br>
+&ldquo;Ransom would bring us food&rdquo; she murmurs.<br>
+<br>
+&ldquo;Whiteman food! Who knows<br>
+if anyone will buy her?<br>
+And the journey is long and bitter &mdash; <br>
+she will die on the way.&rdquo;<br>
+<br>
+Sees-the-sun stands, faces him<br>
+but will not anger him by meeting his eyes. <br>
+&ldquo;Brings-me-luck has brought ill fortune to us. <br>
+Her white smell frightens the deer.<br>
+Her coming and going offends Beaver Woman. <br>
+Her son eats Little Feather's food.<br>
+But killing her will fasten her spirit<br>
+upon our wigwam. Evil<br>
+will dwell with us. At last the village<br>
+will cast us out.<br>
+<br>
+My son, it is long<br>
+since you summoned the small spotted ones, <br>
+the good tribe underground. <br>
+Their words have always been true.<br>
+Let them help us now.&rdquo;<br>
+<br>
+He scowls, but the next night<br>
+he builds a little lodge<br>
+of saplings. Makes fire. The women <br>
+see the branch walls bulge and shake. <br>
+They peep between the cracks.<br>
+<br>
+Fire shines on him. Around the blaze <br>
+the salamander tribe with yellow spots <br>
+stand upright, flicking their tongues. <br>
+He listens.<br>
+<br>
+<strong>After this he would not suffer me <br>
+in his presence.<br>
+We made another remove,<br>
+it being two day&rsquo;s journey,<br>
+and mostly upon the ice.<br>
+He took me to the French<br>
+and I was with my baby ransomed; <br>
+my little boy likewise at the same time <br>
+was redeemed also.</strong></li>
 </ol>
