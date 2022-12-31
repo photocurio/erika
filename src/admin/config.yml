@@ -15,3 +15,15 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: 'karmabazaar'
+    label: 'Karma Bazaar'
+    folder: 'src/karmabazaar'
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: 'willowwater'
+    label: 'Willow Water'
+    folder: 'src/willowwater'
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
