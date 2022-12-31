@@ -21,11 +21,11 @@
 	</div>
 
 </footer>
-<script src="/js/jquery.min.js"></script>
-<script src="/js/jquery.hoverIntent.min.js"></script>
+<script src="{{'/js/jquery.min.js' | prepend: site.url}}"></script>
+<script src="{{'/js/jquery.hoverIntent.min.js' | prepend: site.url}}"></script>
 <script>
 	$( document ).ready( function () {
-		$( '.post' ).fadeIn( 1400 )
+		$( '.post' ).fadeIn( 1000 )
 		$( '.menu li' ).hoverIntent( function () {
 			// .stop debounces the dropdown
 			$( this ).find( 'ul' ).stop().slideToggle( 300 )

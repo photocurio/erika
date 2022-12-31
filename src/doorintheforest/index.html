@@ -4,16 +4,12 @@ title: Door in the Forest
 permalink: /doorintheforest/index.html
 ---
 
-<a href="/pdf/the_door_in_the_forest.pdf"><img src="/images/the_door_in_the_forest_cover.jpg" alt="book cover" width="300" height="448" style="float:right;margin-left:10px;"/></a>
+<a href="/pdf/the_door_in_the_forest.pdf"><img src="/images/the_door_in_the_forest_cover.jpg" alt="book cover" width="300" height="448" style="float:right;margin-left:10px;" /></a>
 <h3>Selected Poems from The Door In The Forest</h3>
 <ul>
-<li><a href="makingbouillabaisse.html">Making Bouillabaisse</a></li>
-<li><a href="celtic_field.html">Celtic Field</a></li>
-<li><a href="furnishing_the_pyramid.html">Furnishing The Pyramid</a></li>
-<li><a href="cuckoo.html">Cuckoo</a></li>
-<li><a href="thewoodedpoint.html">The Wooded Point</a></li>
-<li><a href="killerwhales.html">Killer Whales</a></li>
-<li><a href="underground.html">Underground</a></li>
-<li><a href="doorintheforest.html">The Door In The Forest</a></li>
-<li><a href="the_door_in_the_forest.pdf">pdf file of The Door In The Forest (complete)</a></li>
+	{% for page in site.pages %}
+	{% if page.collections == "doorintheforest" %}
+	<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+	{% endif %}
+	{% endfor %}
 </ul>

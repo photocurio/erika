@@ -6,9 +6,9 @@ permalink: /wordsformyself/index.html
 <a href="/pdf/words_for_myself.pdf"><img src="/images/words_for_myself_cover.jpg" alt="cover" width="300" height="453" style="float:right;margin-right:10px;" /></a>
 <h2>Selected Poems from Words for Myself</h2>
 <ul>
-<li><a href="elm.html">Elm</a></li>
-<li><a href="womanfromtanagra.html">Woman from Tanagra</a></li>
-<li><a href="fragments.html">Fragments</a></li>
-<li><a href="unfinished_poem.html">Unfinished Poem</a></li>
-<li><a href="words_for_myself.pdf">pdf file of Words For Myself (complete)</a></li>
+	{% for page in site.pages %}
+	{% if page.collections == "wordsformyself" %}
+	<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+	{% endif %}
+	{% endfor %}
 </ul>
