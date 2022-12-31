@@ -6,10 +6,12 @@ backend:
 media_folder: 'media'
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
-
+editor:
+  preview: false
 collections:
   - name: 'doorintheforest'
     label: 'Door in the Forest'
     folder: 'src/doorintheforest'
     fields:
-      - { name: Title }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
