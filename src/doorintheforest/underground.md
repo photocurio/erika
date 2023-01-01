@@ -4,7 +4,6 @@ title: Underground
 permalink: /doorintheforest/underground.html
 collections: doorintheforest
 ---
-
 <p>Oblique<br>
 a snake slips by.<br>
 Some other life disturbs<br>
@@ -29,4 +28,4 @@ no thing?</p>
 under the bough?<br>
 Taste fur, taste breath, taste paw, <br>
 do not come nearer, come nearer, <br>
-come now.
+come now..
