@@ -6,11 +6,13 @@ backend:
   branch: master
 media_folder: 'media'
 # Please run "npx netlify-cms-proxy-server" for local backend
-local_backend: true
+# local_backend: true
 editor:
   preview: false
 collections:
   - name: 'doorintheforest'
+    publish_mode: editorial_workflow
+    create: true
     label: 'Door in the Forest'
     folder: 'src/doorintheforest'
     fields:
