@@ -1,5 +1,6 @@
 # config.yml
 
+logo_url: https://erikamumford.net/images/erika.jpg
 backend:
   name: git-gateway
   branch: master

@@ -3,7 +3,9 @@ layout: page
 title: The Karma Bazaar
 permalink: /karmabazaar/index.html
 ---
-<a href="/pdf/the_karma_bazaar.pdf"><img src="/images/the_karma_bazaar_cover.jpg" alt="book cover" width="300" height="448" style="float:right; margin-left:10px;" /></a>
+<a href="{{ '/pdf/the_karma_bazaar.pdf' | prepend: site.baseurl }}">
+	<img src="{{ '/images/the_karma_bazaar_cover.jpg' | prepend: site.baseurl }}" alt="The Karma Bazaar" width="300" height="448" style="float:right; margin-left:10px;" />
+</a>
 <h3>Selected Poems from The Karma Bazaar</h3>
 <ul>
 	{% for page in site.pages %}
