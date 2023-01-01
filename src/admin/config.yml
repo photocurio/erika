@@ -14,10 +14,13 @@ collections:
     publish_mode: editorial_workflow
     create: true
     label: 'Door in the Forest'
+    label_singular: 'Door in the Forest poem'
     folder: 'src/doorintheforest'
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Publish Date", name: "published", widget: "date", format: "MMM Do YY" }
   - name: 'karmabazaar'
     label: 'Karma Bazaar'
     folder: 'src/karmabazaar'
