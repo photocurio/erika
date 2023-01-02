@@ -21,7 +21,7 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Collections", name: "collections", widget: "hidden", default: "doorintheforest" }
-      - { label: "Permalink", name: "permalink", widget: "string", default: "/doorintheforest/{{ slug }}.html" }
+      - { label: "Permalink", name: "permalink", widget: "string", default: "/doorintheforest/{{slug}}.html" }
       - { label: "Publish Date", name: "published", widget: "date", format: "MMM Do YY" }
   - name: 'karmabazaar'
     label: 'Karma Bazaar'
