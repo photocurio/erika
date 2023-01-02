@@ -8,5 +8,15 @@ url: "https://erikamumford.net"
 markdown: kramdown
 source: src
 collections:
-  output: true
-  permalink: /:collection/:name
+  doorintheforest:
+    output: true
+    permalink: /:collection/:name
+  karmabazaar:
+    output: true
+    permalink: /:collection/:name
+  willowwater:
+    output: true
+    permalink: /:collection/:name
+  wordsformyself:
+    output: true
+    permalink: /:collection/:name
