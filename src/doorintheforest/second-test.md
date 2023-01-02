@@ -1,6 +1,0 @@
----
-title: second test
-layout: page
-published: Jan 1st 23
----
-The ARD has a budget of €6.9 billion, 22,612 employees and is the largest public broadcaster network in the world.[\[2]](https://en.wikipedia.org/wiki/ARD_(broadcaster)#cite_note-3)[\[3]](https://en.wikipedia.org/wiki/ARD_(broadcaster)#cite_note-4)[\[4]](https://en.wikipedia.org/wiki/ARD_(broadcaster)#cite_note-5) The budget comes primarily from a [licence fee](https://en.wikipedia.org/wiki/Licence_fee "Licence fee") which every household, company and public institution are required by law to pay. For an ordinary household the fee is currently €18.36 per month. Households living on [welfare](https://en.wikipedia.org/wiki/Welfare_in_Germany "Welfare in Germany") are exempt from the fee. The fees are not collected directly by the ARD, but by the [Beitragsservice](https://en.wikipedia.org/wiki/Beitragsservice_von_ARD,_ZDF_und_Deutschlandradio "Beitragsservice von ARD, ZDF und Deutschlandradio") (formerly known as Gebühreneinzugszentrale GEZ), a common organisation of the ARD member broadcasters, the second public TV broadcaster [ZDF](https://en.wikipedia.org/wiki/ZDF "ZDF"), and [Deutschlandradio](https://en.wikipedia.org/wiki/Deutschlandradio "Deutschlandradio").
