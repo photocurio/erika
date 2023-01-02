@@ -11,10 +11,10 @@ editor:
   preview: false
 collections:
   - name: 'doorintheforest'
+    label: 'Door in the Forest'
     publish_mode: editorial_workflow
     create: true
-    label: 'Door in the Forest'
-    label_singular: 'Door in the Forest poem'
+    label_singular: 'New doorintheforest'
     folder: 'src/doorintheforest'
     fields:
       - { label: "Title", name: "title", widget: "string" }
@@ -24,19 +24,37 @@ collections:
       - { label: "Publish Date", name: "published", widget: "date", format: "MMM Do YY" }
   - name: 'karmabazaar'
     label: 'Karma Bazaar'
+    publish_mode: editorial_workflow
+    create: true
+    label_singular: 'New karmabazaar'
     folder: 'src/karmabazaar'
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Collections", name: "collections", widget: "hidden", default: "karmabazaar" }
+      - { label: "Publish Date", name: "published", widget: "date", format: "MMM Do YY" }  
   - name: 'willowwater'
     label: 'Willow Water'
+    publish_mode: editorial_workflow
+    create: true
+    label_singular: 'New willowwater'
     folder: 'src/willowwater'
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Collections", name: "collections", widget: "hidden", default: "willowwater" }
+      - { label: "Publish Date", name: "published", widget: "date", format: "MMM Do YY" }
   - name: 'wordsformyself'
     label: 'Words for Myself'
     folder: 'src/wordsformyself'
+    publish_mode: editorial_workflow
+    create: true
+    label_singular: 'New wordsformyself'
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Collections", name: "collections", widget: "hidden", default: "wordsformyself" }
+      - { label: "Publish Date", name: "published", widget: "date", format: "MMM Do YY" }
