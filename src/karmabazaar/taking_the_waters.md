@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Taking the Waters
-permalink: /karmabazaar/taking_the_waters.html
 collections: karmabazaar
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Underground
-permalink: /doorintheforest/underground.html
 collections: doorintheforest
 ---
 <p>Oblique<br>

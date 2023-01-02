@@ -7,4 +7,6 @@ url: "https://erikamumford.net"
 # Build settings
 markdown: kramdown
 source: src
-
+collections:
+  output: true
+  permalink: /:collection/:name

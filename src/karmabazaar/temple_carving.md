@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Temple Carving
-permalink: /karmabazaar/temple_carving.html
 collections: karmabazaar
 ---
 
