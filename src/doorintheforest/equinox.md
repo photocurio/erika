@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Equinox
-permalink: /doorintheforest/equinox.html
 collections: doorintheforest
 ---
 

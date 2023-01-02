@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Making Bouillabaisse
-permalink: /doorintheforest/makingbouillabaisse.html
 collections: doorintheforest
 ---
 

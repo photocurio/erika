@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Killer Whales
-permalink: /doorintheforest/killerwhales.html
 collections: doorintheforest
 ---
 

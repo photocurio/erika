@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Furnishing the Pyramid
-permalink: /doorintheforest/furnishing_the_pyramid.html
 collections: doorintheforest
 ---
 

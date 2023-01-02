@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Wooded Point
-permalink: /doorintheforest/thewoodedpoint.html
 collections: doorintheforest
 ---
 

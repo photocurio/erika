@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Cuckoo
-permalink: /doorintheforest/cuckoo.html
 collections: doorintheforest
 ---
 

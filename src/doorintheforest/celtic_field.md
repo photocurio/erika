@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Celtic Field
-permalink: /doorintheforest/celtic_field.html
 collections: doorintheforest
 ---
 

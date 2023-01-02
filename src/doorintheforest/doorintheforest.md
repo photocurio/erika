@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Door
-permalink: /doorintheforest/doorintheforest.html
 collections: doorintheforest
 ---
 <p>There is a further hidden door to unlock.<br>
